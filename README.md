@@ -6,6 +6,7 @@
   <a href="https://www.rinda.ai/">RINDA</a> ·
   <a href="https://grinda.ai/en">GRINDA AI</a> ·
   <a href="https://github.com/FINGU-GRINDA">Product lab</a> ·
+  <a href="https://www.linkedin.com/in/grindaaihojin">LinkedIn</a> ·
   <a href="mailto:hogingpt@grinda.ai">Email</a>
 </p>
 
@@ -58,6 +59,6 @@ I'm interested in practical conversations with:
 - AI-agent and sales-tech builders;
 - global partners working with Korean products and companies.
 
-**[Explore RINDA](https://www.rinda.ai/)** · **[Meet GRINDA AI](https://grinda.ai/en)** · **[hogingpt@grinda.ai](mailto:hogingpt@grinda.ai)**
+**[Explore RINDA](https://www.rinda.ai/)** · **[LinkedIn](https://www.linkedin.com/in/grindaaihojin)** · **[hogingpt@grinda.ai](mailto:hogingpt@grinda.ai)**
 
 <sub>Public repositories are a mix of product experiments, prototypes, and open-source learning. Production systems and customer data remain private.</sub>
