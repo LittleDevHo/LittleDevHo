@@ -36,9 +36,10 @@ At GRINDA AI, we turn repetitive sales, marketing, and document work into tracea
 
 | Project | What it explores |
 | --- | --- |
+| [claude-rinda-plugin](https://github.com/FINGU-GRINDA/claude-rinda-plugin) | RINDA workflows for AI coding-agent and MCP interfaces |
+| [rinda-ai-crm](https://github.com/FINGU-GRINDA/rinda-ai-crm) | AI-assisted customer analysis, proposals, and sales-pipeline management |
 | [rinda-video-ask](https://github.com/FINGU-GRINDA/rinda-video-ask) | Conversational video experiences for product discovery and booking |
 | [rinda-lead-search](https://github.com/FINGU-GRINDA/rinda-lead-search) | AI-assisted lead and buyer research |
-| [rinda-callops](https://github.com/FINGU-GRINDA/rinda-callops) | Operational tooling around AI-assisted sales calls |
 | [Saydo](https://github.com/FINGU-GRINDA/saydo) | Voice-to-action workflows across software tools |
 | [VoicePilot](https://github.com/FINGU-GRINDA/voicepilot) | A no-code builder for voice agents |
 
