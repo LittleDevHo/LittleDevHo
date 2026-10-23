@@ -6,7 +6,7 @@
 </picture>
 <!-- hero:end -->
 
-<samp><a href="https://www.rinda.ai/">rinda.ai</a> · <a href="https://grinda.ai/en">grinda.ai</a> · <a href="https://www.linkedin.com/in/grindaaihojin">linkedin</a> · <a href="https://x.com/web3devdev">x</a> · <a href="mailto:hogingpt@grinda.ai">hogingpt@grinda.ai</a></samp>
+<samp><a href="https://www.rinda.ai/">rinda.ai</a> · <a href="https://grinda.ai/en">grinda.ai</a> · <a href="https://www.linkedin.com/in/grindaaihojin">linkedin</a> · <a href="https://x.com/DavidBuildsAI">x</a> · <a href="mailto:hogingpt@grinda.ai">hogingpt@grinda.ai</a></samp>
 
 I'm Hojin, founder and CEO of [GRINDA AI](https://grinda.ai/en) in Daejeon, Korea. We build AI agents so that a five-person company can sell in seventeen countries.
 
