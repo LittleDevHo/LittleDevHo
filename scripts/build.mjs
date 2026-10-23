@@ -274,7 +274,7 @@ async function main() {
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <img alt="${alt}" src="./assets/hero-light.svg" width="100%">
 </picture>`;
-  const line = `<sub><samp>${fmt(s.lastYear)} contributions in the last 12 months · ${s.activeDays} active days · ~${Math.round(s.perActiveDay)} per active day · updated ${fmtDate(s.updated, { month: 'short', day: 'numeric', year: 'numeric' })}</samp></sub>`;
+  const line = `<sub>${fmt(s.lastYear)} contributions in the last 12 months · ${s.activeDays} active days · ~${Math.round(s.perActiveDay)} per active day · updated ${fmtDate(s.updated, { month: 'short', day: 'numeric', year: 'numeric' })}<br>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: <a href="./scripts/build.mjs">scripts/build.mjs</a>.</sub>`;
 
   let readme = await readFile(file('README.md'), 'utf8');
   readme = replaceBlock(readme, 'hero', hero);
