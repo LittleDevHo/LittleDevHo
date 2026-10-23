@@ -1,64 +1,48 @@
-<p align="center">
-  <img src="./assets/hojin-kang-banner.svg" alt="Hojin Kang — Founder of GRINDA AI, building RINDA" width="100%" />
-</p>
+<!-- hero:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="7,094 contributions in the last 12 months, shipped by one founder-CEO and his agents. 6,755 so far in 2026; 262 active days out of 365." src="./assets/hero-light.svg" width="100%">
+</picture>
+<!-- hero:end -->
 
-<p align="center">
-  <a href="https://www.rinda.ai/">RINDA</a> ·
-  <a href="https://grinda.ai/en">GRINDA AI</a> ·
-  <a href="https://github.com/FINGU-GRINDA">Product lab</a> ·
-  <a href="https://www.linkedin.com/in/grindaaihojin">LinkedIn</a> ·
-  <a href="mailto:hogingpt@grinda.ai">Email</a>
-</p>
+<samp><a href="https://www.rinda.ai/">rinda.ai</a> · <a href="https://grinda.ai/en">grinda.ai</a> · <a href="https://www.linkedin.com/in/grindaaihojin">linkedin</a> · <a href="https://x.com/web3devdev">x</a> · <a href="mailto:hogingpt@grinda.ai">hogingpt@grinda.ai</a></samp>
 
-## Building the AI-native infrastructure for global B2B sales
+I'm Hojin, founder and CEO of [GRINDA AI](https://grinda.ai/en) in Daejeon, Korea. We build AI agents so that a five-person company can sell in seventeen countries.
 
-I'm **Hojin Kang**, founder and CEO of **GRINDA AI** in Daejeon, South Korea.
+I write the specs, review the diffs, and decide what merges. Agents do the rest. The graph below is what that looks like when it becomes a habit.
 
-I build AI agents that help smaller teams operate globally. Our flagship product, **[RINDA](https://www.rinda.ai/)**, connects overseas buyer discovery, qualification, personalized multilingual outreach, and reply management in one workflow.
+### Building
 
-The goal is simple: **great products should win customers anywhere, regardless of company size.**
+**[RINDA](https://www.rinda.ai/)** &nbsp;·&nbsp; AI sales agent for exporters<br>
+Finds overseas buyers, writes to each one in their own language, and books the meeting. Nothing sends until a person approves it. Used by 1,100+ B2B exporters.
 
-## What I'm building
+**[Ara](https://grinda.ai/en/products/ara)** &nbsp;·&nbsp; AI employee<br>
+Hand it work in Slack or KakaoTalk, get the finished file back for review. Every run stays on record. Our own team runs on it.
 
-### [RINDA — AI global sales agent](https://www.rinda.ai/)
+**[claude-rinda-plugin](https://github.com/FINGU-GRINDA/claude-rinda-plugin)** &nbsp;·&nbsp; RINDA inside Claude Code<br>
+`/rinda-ai:rinda find cosmetics importers in the US` returns buyers, enriched contacts, and a six-step outreach sequence. Rust CLI + MCP.
 
-RINDA helps export-focused B2B teams:
+### How I work with agents
 
-- discover and qualify potential overseas buyers;
-- create buyer-specific outreach in multiple languages;
-- run follow-up sequences and manage replies in one place;
-- keep negotiation and final decisions under human control.
+- **Brief them like a senior hire.** Problem, constraints, priority, and how we'll know it worked. A vague prompt gets a vague PR.
+- **Every PR explains itself.** What changed, why, and how it was verified. That's how 2,670 of them stay reviewable.
+- **People sign off on anything a customer sees.** RINDA never sends an email you didn't approve. Ara asks before it ships.
+- **Fix the system, not the output.** When an agent makes the same mistake twice, the lesson goes into the playbook, not just the patch.
 
-### [GRINDA AI — applied AI agents](https://grinda.ai/en)
+<sub>2026 through Oct 23: 4,032 commits and 2,670 pull requests across 90+ repositories in 5 organizations. Most of it is private product code, so GitHub shows the count, not the code.</sub>
 
-At GRINDA AI, we turn repetitive sales, marketing, and document work into traceable operating systems. I work across product, AI, go-to-market, and the unglamorous last mile between a prototype and a workflow people can trust.
+### Track record
 
-## Selected public builds
+TIPS-selected (2023) · CES 2024 exhibitor · Runner-up, Global Generative AI Hackathon (2024) · Hana 1Q Agile Lab, batch 17 (2026) · World IT Show 2026
 
-| Project | What it explores |
-| --- | --- |
-| [claude-rinda-plugin](https://github.com/FINGU-GRINDA/claude-rinda-plugin) | RINDA workflows for AI coding-agent and MCP interfaces |
-| [rinda-ai-crm](https://github.com/FINGU-GRINDA/rinda-ai-crm) | AI-assisted customer analysis, proposals, and sales-pipeline management |
-| [rinda-video-ask](https://github.com/FINGU-GRINDA/rinda-video-ask) | Conversational video experiences for product discovery and booking |
-| [rinda-lead-search](https://github.com/FINGU-GRINDA/rinda-lead-search) | AI-assisted lead and buyer research |
-| [Saydo](https://github.com/FINGU-GRINDA/saydo) | Voice-to-action workflows across software tools |
-| [VoicePilot](https://github.com/FINGU-GRINDA/voicepilot) | A no-code builder for voice agents |
+### Talk to me if you
 
-## How I build
+- export B2B and want buyers abroad without hiring a rep for every country;
+- build agents that do real work and want to compare notes;
+- back AI-native teams building from Korea for the world.
 
-- **Evidence before automation** — a useful agent should show why it made a recommendation.
-- **Human judgment at the boundary** — automate repetitive execution, not accountability.
-- **End-to-end over demo-only** — the last mile from signal to action is the product.
-- **Global by default** — language, market context, and local operating constraints belong in the system design.
-
-## Let's connect
-
-I'm interested in practical conversations with:
-
-- B2B teams building repeatable overseas sales;
-- AI-agent and sales-tech builders;
-- global partners working with Korean products and companies.
-
-**[Explore RINDA](https://www.rinda.ai/)** · **[LinkedIn](https://www.linkedin.com/in/grindaaihojin)** · **[hogingpt@grinda.ai](mailto:hogingpt@grinda.ai)**
-
-<sub>Public repositories are a mix of product experiments, prototypes, and open-source learning. Production systems and customer data remain private.</sub>
+<!-- stats:start -->
+<sub><samp>7,094 contributions in the last 12 months · 262 active days · ~27 per active day · updated Oct 23, 2026</samp></sub>
+<!-- stats:end --><br>
+<sub>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: [scripts/build.mjs](./scripts/build.mjs).</sub>
