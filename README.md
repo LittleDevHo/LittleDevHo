@@ -20,6 +20,9 @@ Finds overseas buyers, writes to each one in their own language, and books the m
 **[Ara](https://grinda.ai/en/products/ara)** &nbsp;·&nbsp; AI employee<br>
 Hand it work in Slack or KakaoTalk, get the finished file back for review. Every run stays on record. Our own team runs on it.
 
+**[TradeGraph](https://tradegraph.rinda.ai/?lang=en)** &nbsp;·&nbsp; export data for AI agents<br>
+A free MCP server and API. Ask Claude or ChatGPT where to export, which buyers reply and what to check before selling; it answers from UN Comtrade imports and 2.2M real export emails. No sign-up.
+
 **[claude-rinda-plugin](https://github.com/FINGU-GRINDA/claude-rinda-plugin)** &nbsp;·&nbsp; RINDA inside Claude Code<br>
 `/rinda-ai:rinda find cosmetics importers in the US` returns buyers, enriched contacts, and a six-step outreach sequence. Rust CLI + MCP.
 
