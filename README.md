@@ -46,5 +46,5 @@ TIPS-selected (2023) · CES 2024 exhibitor · Runner-up, Global Generative AI Ha
 - back AI-native teams building from Korea for the world.
 
 <!-- stats:start -->
-<sub>7,495 contributions in the last 12 months · 267 active days · ~28 per active day · updated Oct 31, 2026<br>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: <a href="./scripts/build.mjs">scripts/build.mjs</a>.</sub>
+<sub>7,495 contributions in the last 12 months · 267 active days · ~28 per active day · updated Nov 1, 2026<br>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: <a href="./scripts/build.mjs">scripts/build.mjs</a>.</sub>
 <!-- stats:end -->
