@@ -1,14 +1,14 @@
 {
   "user": "LittleDevHo",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "year": 2026,
-  "lastYear": 7699,
-  "thisYear": 7371,
+  "lastYear": 7746,
+  "thisYear": 7418,
   "prevYear": 422,
-  "multiple": 17.466824644549764,
+  "multiple": 17.578199052132703,
   "activeDays": 271,
   "windowDays": 365,
-  "perActiveDay": 28.40959409594096,
+  "perActiveDay": 28.583025830258304,
   "bestDay": {
     "date": "2026-04-28",
     "n": 174
@@ -402,7 +402,7 @@
     },
     {
       "start": "2026-11-01",
-      "n": 213
+      "n": 260
     }
   ]
 }
