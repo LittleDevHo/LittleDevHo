@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="8,104 contributions in the last 12 months, shipped by one founder-CEO and his agents. 7,788 so far in 2026; 286 active days out of 365." src="./assets/hero-light.svg" width="100%">
+  <img alt="8,111 contributions in the last 12 months, shipped by one founder-CEO and his agents. 7,795 so far in 2026; 287 active days out of 365." src="./assets/hero-light.svg" width="100%">
 </picture>
 <!-- hero:end -->
 
@@ -46,5 +46,5 @@ TIPS-selected (2023) · CES 2024 exhibitor · Runner-up, Global Generative AI Ha
 - back AI-native teams building from Korea for the world.
 
 <!-- stats:start -->
-<sub>8,104 contributions in the last 12 months · 286 active days · ~28 per active day · updated Nov 24, 2026<br>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: <a href="./scripts/build.mjs">scripts/build.mjs</a>.</sub>
+<sub>8,111 contributions in the last 12 months · 287 active days · ~28 per active day · updated Nov 25, 2026<br>This page redraws itself every morning (KST) from my public contribution graph. No dependencies, no third-party widgets: <a href="./scripts/build.mjs">scripts/build.mjs</a>.</sub>
 <!-- stats:end -->
