@@ -1,20 +1,20 @@
 {
   "user": "LittleDevHo",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "year": 2026,
-  "lastYear": 8180,
-  "thisYear": 7864,
+  "lastYear": 8182,
+  "thisYear": 7866,
   "prevYear": 422,
-  "multiple": 18.635071090047393,
+  "multiple": 18.639810426540283,
   "activeDays": 286,
   "windowDays": 365,
-  "perActiveDay": 28.6013986013986,
+  "perActiveDay": 28.60839160839161,
   "bestDay": {
     "date": "2026-04-28",
     "n": 174
   },
   "longestStreak": 21,
-  "currentStreak": 11,
+  "currentStreak": 1,
   "weeks": [
     {
       "start": "2024-12-29",
@@ -414,7 +414,7 @@
     },
     {
       "start": "2026-11-22",
-      "n": 208
+      "n": 210
     }
   ]
 }
